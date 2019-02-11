@@ -1,0 +1,28 @@
+#p {
+    visibility: hidden;
+}
+
+.b1 {
+    background-image: url("christmas_winter-HD.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.b2 {
+    background-image: url("wall%20(8).jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#bg {
+    vertical-align: middle;
+    background-color: white;
+    padding: 30;
+    height: 100%;
+}
+
+.img {
+    opacity: 0.0;
+    background-color: aliceblue;
+    height: 100%;
+}
